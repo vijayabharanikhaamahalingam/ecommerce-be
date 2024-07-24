@@ -1,0 +1,20 @@
+{
+  "name": "ecommerce-backend",
+  "version": "1.0.0",
+  "description": "ecom application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vijayabharanikhaamahalingam/ecommerce-be.git"
+  },
+  "author": "vijaya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vijayabharanikhaamahalingam/ecommerce-be/issues"
+  },
+  "homepage": "https://github.com/vijayabharanikhaamahalingam/ecommerce-be#readme"
+}
